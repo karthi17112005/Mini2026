@@ -1,0 +1,46 @@
+D_Number,First_Name,Last_Name,Religion,Accommodation,Department,Class,Year,Section
+24UCS101,Aarav,K,Catholic,Day Scholar,CS,B.Sc CS,I Year,A
+24UCS102,Abishek,M,Non-Catholic,Hosteler,CS,B.Sc CS,I Year,A
+24UCS103,Alphonse,R,Catholic,Hosteler,CS,B.Sc CS,I Year,A
+24UCS104,Anand,S,Non-Catholic,Day Scholar,CS,B.Sc CS,I Year,B
+24UCS105,Antony,V,Catholic,Hosteler,CS,B.Sc CS,I Year,B
+23UCS201,Balan,P,Non-Catholic,Day Scholar,CS,B.Sc CS,II Year,A
+23UCS202,Benedict,A,Catholic,Hosteler,CS,B.Sc CS,II Year,A
+23UCS203,Chandran,G,Non-Catholic,Day Scholar,CS,B.Sc CS,II Year,A
+23UCS204,Charles,D,Catholic,Day Scholar,CS,B.Sc CS,II Year,B
+23UCS205,David,J,Catholic,Hosteler,CS,B.Sc CS,II Year,B
+22UCS301,Deepak,N,Non-Catholic,Day Scholar,CS,B.Sc CS,III Year,A
+22UCS302,Dominic,S,Catholic,Hosteler,CS,B.Sc CS,III Year,A
+22UCS303,Dinesh,T,Non-Catholic,Day Scholar,CS,B.Sc CS,III Year,A
+22UCS304,Edward,L,Catholic,Day Scholar,CS,B.Sc CS,III Year,B
+22UCS305,Elango,V,Non-Catholic,Hosteler,CS,B.Sc CS,III Year,B
+25PCA801,Francis,X,Catholic,Hosteler,CS,MCA,I Year,A
+25PCA802,Ganesh,R,Non-Catholic,Day Scholar,CS,MCA,I Year,A
+25PCA803,George,M,Catholic,Hosteler,CS,MCA,I Year,A
+25PCA804,Gowtham,K,Non-Catholic,Day Scholar,CS,MCA,I Year,B
+25PCA805,Ignatius,A,Catholic,Day Scholar,CS,MCA,I Year,B
+24PCA901,Hari,P,Non-Catholic,Day Scholar,CS,MCA,II Year,A
+24PCA902,Iniyan,S,Non-Catholic,Hosteler,CS,MCA,II Year,A
+24PCA903,James,W,Catholic,Hosteler,CS,MCA,II Year,A
+24PCA904,Jeeva,M,Non-Catholic,Day Scholar,CS,MCA,II Year,B
+24PCA905,Joseph,B,Catholic,Hosteler,CS,MCA,II Year,B
+24UCA101,Karthik,N,Non-Catholic,Day Scholar,IT,BCA,I Year,A
+24UCA102,Lawrence,T,Catholic,Hosteler,IT,BCA,I Year,A
+24UCA103,Kishore,E,Non-Catholic,Day Scholar,IT,BCA,I Year,A
+24UCA104,Leo,P,Catholic,Day Scholar,IT,BCA,I Year,B
+24UCA105,Manoj,C,Non-Catholic,Hosteler,IT,BCA,I Year,B
+23UCA201,Mathias,K,Catholic,Hosteler,IT,BCA,II Year,A
+23UCA202,Mukesh,V,Non-Catholic,Day Scholar,IT,BCA,II Year,A
+23UCA203,Michael,R,Catholic,Day Scholar,IT,BCA,II Year,A
+23UCA204,Naveen,B,Non-Catholic,Day Scholar,IT,BCA,II Year,B
+23UCA205,Nicholas,S,Catholic,Hosteler,IT,BCA,II Year,B
+22UCA301,Nithesh,D,Non-Catholic,Day Scholar,IT,BCA,III Year,A
+22UCA302,Patrick,G,Catholic,Hosteler,IT,BCA,III Year,A
+22UCA303,Pradeep,K,Non-Catholic,Day Scholar,IT,BCA,III Year,A
+22UCA304,Peter,L,Catholic,Day Scholar,IT,BCA,III Year,B
+22UCA305,Praveen,M,Non-Catholic,Hosteler,IT,BCA,III Year,B
+25PCS801,Philip,A,Catholic,Hosteler,IT,M.Sc CS,I Year,A
+25PCS802,Raghav,S,Non-Catholic,Day Scholar,IT,M.Sc CS,I Year,A
+25PCS803,Robert,J,Catholic,Day Scholar,IT,M.Sc CS,I Year,A
+24PCS901,Sanjay,V,Non-Catholic,Day Scholar,IT,M.Sc CS,II Year,A
+24PCS902,Stephen,T,Catholic,Hosteler,IT,M.Sc CS,II Year,A
